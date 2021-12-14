@@ -11,6 +11,7 @@ $ cd ..\AppData\Local\Programs\Python\Python310\Lib\http\server.py
 - https://docs.python-requests.org/en/latest/
 <br>
 
+![Algorithm schema](./resources/img.jpg)
 
 In order not to alert curious network observers, client tries to connect to the server at specific time periods:<br>
 * 60 secs (10 tries)
