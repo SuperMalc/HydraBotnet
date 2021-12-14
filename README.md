@@ -8,8 +8,4 @@ Hydra is a multiclient remote administrative tool using python requests library.
 In order not to alert curious network observers, client tries to connect to the server at specific time periods:<br>
 * 60 secs (10 tries)
 * 8 mins (4 tries)
-* after the following minutes the period is fixed at 15 minutes
-
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+* after the following minutes the period every more tries is fixed at 15 minutes
