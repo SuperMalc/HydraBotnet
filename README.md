@@ -3,5 +3,7 @@ Hydra is a multiclient remote administrative tool using python requests library.
 <br>Requests main page:
 - https://docs.python-requests.org/en/latest/
 <br>
-In order not to alert curious observers, the client tries to connect to the server at time periods:<br>
-10 times (first running minute of the client)
+In order not to alert curious network observers, client tries to connect to the server at specific time periods:<br>
+- 60 secs (10 tries)
+- 8 mins (4 tries)
+- after the following minutes the period is fixed at 15 minutes
