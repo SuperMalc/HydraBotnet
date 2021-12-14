@@ -3,7 +3,7 @@ Hydra is a multiclient remote administrative tool using python requests library.
 
 #### Modification or replacement of this file is required for proper operation:
 ```
-$ cd ..\AppData\Local\Programs\Python\Python310\Lib\http\server.py
+cd ..\AppData\Local\Programs\Python\Python310\Lib\http\server.py
 ```
 
 
