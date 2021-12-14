@@ -17,3 +17,7 @@ In order not to alert curious network observers, client tries to connect to the 
 * 60 secs (10 tries)
 * 8 mins (4 tries)
 * after the following minutes the period every more tries is fixed at 15 minutes
+
+### Usage:
+aaaa
+ddddd
