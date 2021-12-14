@@ -1,7 +1,7 @@
 #-*- coding: utf-8 -*-
 #!/usr/bin/env python
-#Malcolm Mami
-#Tested and working on python 3.10.0
+# Author: Malcolm Mami
+# Tested and working on python 3.10.0
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import threading
 import time
