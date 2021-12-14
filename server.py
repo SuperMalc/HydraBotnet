@@ -1,5 +1,6 @@
 #-*- coding: utf-8 -*-
 #!/usr/bin/env python
+# HydraBotnet v1.0.5.0 [server_side]
 # Author: Malcolm Mami
 # Tested and working on python 3.10.0
 from http.server import BaseHTTPRequestHandler, HTTPServer
