@@ -19,5 +19,8 @@ In order not to alert curious network observers, client tries to connect to the 
 * after the following minutes the period every more tries is fixed at 15 minutes
 
 ### Usage:
-aaaa
-ddddd
+HELP   : show functions
+grab   : download a file from the client
+upload : upload a file to the client
+admck  : check administrative permissions
+exec   : run a command outside mainloop (thread)
