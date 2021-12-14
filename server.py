@@ -1,4 +1,4 @@
-"""[MODDED VERSION OF THE ORIGINAL HTTP SERVER CLASSES]
+"""*****[MODDED VERSION OF THE ORIGINAL HTTP SERVER CLASSES]*****
 HTTP server classes.
 
 Note: BaseHTTPRequestHandler doesn't implement any HTTP request; see
