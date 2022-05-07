@@ -6,7 +6,7 @@ Hydra is a multiclient remote administrative tool using python requests library.
 cd ..\AppData\Local\Programs\Python\Python310\Lib\http\server.py
 ```
 <br>Modificated server file:
-https://github.com/SuperMalc/HydraBotnet/blob/main/server.py
+https://github.com/SuperMalc/HydraBotnet/blob/main/HTTP/server.py
 <br>
 <br>Requests main page:
 - https://docs.python-requests.org/en/latest/
