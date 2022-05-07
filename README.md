@@ -14,6 +14,14 @@ https://github.com/SuperMalc/HydraBotnet/blob/main/HTTP/server.py
 
 ![Algorithm schema](https://github.com/SuperMalc/HydraBotnet/blob/main/resources/img1.JPG)
 
+```
+    __H__Y__D__R__A_________
+    v.1.0.5.0  Dev:SuperMalc
+
+('[07/05/2022 14:23:47] server in ascolto ', '0.0.0.0', ':', 8080)
+[+] In attesa di connessioni in arrivo [Ctrl] + [Alt] ---> [selettore client]
+```
+
 In order not to alert curious network observers, client tries to connect to the server at specific time periods:<br>
 * 60 secs (10 tries)
 * 8 mins (4 tries)
