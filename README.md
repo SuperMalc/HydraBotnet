@@ -16,7 +16,7 @@ https://github.com/SuperMalc/HydraBotnet/blob/main/HTTP/server.py
 
 ```
     __H__Y__D__R__A_________
-    v.1.0.5.0  Dev:SuperMalc
+    v.1.0.5.0      SuperMalc
 
 ('[07/05/2022 14:23:47] server in ascolto ', '0.0.0.0', ':', 8080)
 [+] In attesa di connessioni in arrivo [Ctrl] + [Alt] ---> [selettore client]
