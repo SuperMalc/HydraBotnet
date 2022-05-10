@@ -4,10 +4,11 @@
 #                                                     #
 #   * HYDRA-BOTNET v.1.0.5.0                          #
 #   * Client-side                                     #
-#   * Dev:Malcolm Mami                                #
-#   * Tested and working with python version 3.10.0   #
+#   * Dev: Malcolm Mami                               #
+#   * Python version: 3.10.0                          #
 #                                                     #
 #######################################################
+
 import requests
 import time
 import socket
