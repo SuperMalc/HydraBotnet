@@ -49,9 +49,7 @@ def hint_menu():
     #  admck     :   verifica permessi concessi alla shell    #                       
     #  exec      :   esegue processo in thread separato       #
     #  quit      :   termina sessione del client corrente     #
-    #  getsystem [nomeservizio] :                             #    
-    #                registra lo script come servizio         #
-    #  message [msg..]          : invia un messaggio visivo   #
+    #  message   :   invia un messaggio visivo al client      #
     ###########################################################
     '''
     print(hints)
