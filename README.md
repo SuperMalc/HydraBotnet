@@ -27,7 +27,7 @@ In order not to alert curious network observers, client tries to connect to the 
 
 ### Usage:
 * HELP   : show functions
-* grab   : download a file from the client
-* upload : upload a file to the client
-* admck  : check administrative permissions
+* grab   : download a file from client
+* upload : upload a file to client
+* admck  : check administrative privileges
 * exec   : run a command outside mainloop (thread)
