@@ -20,10 +20,10 @@ https://github.com/SuperMalc/HydraBotnet/blob/main/HTTP/server.py
 [+] In attesa di connessioni in arrivo [Ctrl] + [Alt] ---> [selettore client]
 ```
 
-In order not to alert curious network observers, client tries to connect to the server at specific time periods:<br>
-* 60 secs (10 tries)
-* 8 mins (4 tries)
-* after the following minutes the period every more tries is fixed at 15 minutes
+In order not to alert curious network observers, client tries connecting to the server at specific time periods:<br>
+* 60 secs (10 attempts)
+* 8 mins (4 attempts)
+* 15 minutes (remaining attempts)
 
 ### Usage:
 * HELP   : show functions
